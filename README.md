@@ -1,6 +1,6 @@
 # Parcial 1 - VoltaCali S.A.S.
-* **Nombre:** Nelson Esteven Burbano Rave
-* **Código:** [Tu Código Estudiantil]
+* **Nombre:** Howard steven meneses moreno
+* **Código:** 1112053912
 * **Valor de N:** 47 (Reemplaza por tus dos últimos dígitos)
 * **Valor de r (N mod 4):** 3 (Reemplaza con tu cálculo)
 * **Ruta Asignada:** Ruta 3 - sesionesSobreLimiteRed
